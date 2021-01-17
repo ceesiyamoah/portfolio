@@ -23,7 +23,7 @@ export const aboutData = {
     'I am a front-end developer, in Accra, Ghana with skills in HTML, CSS, React, Redux, Versioning Control and Cloud Computing',
   paragraphTwo: ' ',
   paragraphThree: ' ',
-  resume: 'https://drive.google.com/file/d/1CMaOZlvzo1jAoxBa3KCwDW_9HBmTTYDU/view?usp=sharing', // if no resume, the button will not show up
+  resume: 'https://drive.google.com/file/d/1-mcdluuxfOdLLEC2kocYMuEnYy2eOMP7/view?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
